@@ -12,3 +12,15 @@ Bu repository, hukuk makalelerini ve içeriklerini barındırır.
 ## Makale Formatı
 
 Her makale aşağıdaki formatta olmalıdır:
+
+
+
+
+
+## Yeni Makale Ekleme
+
+1. İlgili kategori klasörüne gidin
+2. "Add file" > "Create new file" tıklayın
+3. Dosya adını `makale-basligi.md` formatında girin
+4. Yukarıdaki formatı kullanarak içeriği yazın
+5. "Commit new file" tıklayın
